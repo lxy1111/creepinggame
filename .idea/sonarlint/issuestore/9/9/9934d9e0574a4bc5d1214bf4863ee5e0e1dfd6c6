@@ -1,0 +1,32 @@
+
+Ssquid:S1066÷"/Merge this if statement with the enclosing one.(¼çí…ÿÿÿÿÿ8ú·¼Éå,
+Ssquid:S1066‘"/Merge this if statement with the enclosing one.(…éÏºûÿÿÿÿ8ú·¼Éå,
+ssquid:S00116$"ORename this field "Pole" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç´„úÿÿÿÿ8ú·¼Éå,
+¥squid:S2681Q"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Õãëá8ú·¼Éå,
+|squid:S39737"YUse curly braces or indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8ú·¼Éå,
+\
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(½äµÚøÿÿÿÿ8ú·¼Éå,
+Fsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú·¼Éå,
+dsquid:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ú·¼Éå,
+ƒsquid:S1845"eRename field "mintime" to prevent any misunderstanding/clash with field "minTime" defined on line 23.(·¡ö§8ú·¼Éå,
+rsquid:S1450"URemove the "thread" field and declare it as a local variable in the relevant methods.(â£Ÿ48ú·¼Éå,
+Tsquid:S2696p"6Make the enclosing method "static" or remove this set.(äŞ©û8ĞÌ±ßå,
+Esquid:S1948"(Make "thread" transient or serializable.(â£Ÿ48ú·¼Éå,
+qsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÊšÿ8ú·¼Éå,
+qsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆšÁ8ú·¼Éå,
+ªsquid:S2681O"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(í¹Ñÿÿÿÿÿ8ú·¼Éå,
+Jsquid:S1172Ÿ"+Remove this unused method parameter "pole".(ŒÌâİ8ú·¼Éå,
+usquid:S3776x"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(È³Ç¸ÿÿÿÿÿ8ú·¼Éå,
+ƒsquid:S1845 "eRename field "maxtime" to prevent any misunderstanding/clash with field "maxTime" defined on line 24.(„é„8ú·¼Éå,
+vsquid:S1450"YRemove the "myrunnable" field and declare it as a local variable in the relevant methods.(Øñç?8ú·¼Éå,
+zsquid:S39735"WUse curly braces or indentation to denote the code conditionally executed by this "if".(÷åşƒûÿÿÿÿ8ú·¼Éå,
+Gsquid:S1604±"(Make this anonymous inner class a lambda(şÒà8ú·¼Éå,
+usquid:S00117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È³Ç¸ÿÿÿÿÿ8ú·¼Éå,
+Isquid:S1948",Make "myrunnable" transient or serializable.(Øñç?8ú·¼Éå,
+Usquid:S1135y"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8ú·¼Éå,
+Usquid:S1135H"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ú·¼Éå,
+@squid:S3010‘"!Remove this assignment of "ants".(Æ×Á²8Ã£°ßå,
+Tsquid:S2696q"6Make the enclosing method "static" or remove this set.(´Õìà8¸è±ßå,
+psquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“–ış8ú·¼Éå,
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(‹Ôğ¥üÿÿÿÿ8ú·¼Éå,
+zsquid:S3973O"WUse curly braces or indentation to denote the code conditionally executed by this "if".(í¹Ñÿÿÿÿÿ8ú·¼Éå,

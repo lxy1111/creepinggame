@@ -1,0 +1,24 @@
+
+zsquid:S00116"VRename this field "AntVelocity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¯íüÿÿÿÿ8èÂ™£å,
+Usquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8èÂ™£å,
+Bsquid:S1659"Declare "d" on a separate line.(¹ÿ¾ûşÿÿÿÿ8èÂ™£å,
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Œ«„¡8èÂ™£å,
+Ssquid:S1068"0Remove this unused "AntDirection" private field.(Ÿ¨–«ıÿÿÿÿ8èÂ™£å,
+Usquid:S1135H"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8èÂ™£å,
+Ysquid:S1854D"6Remove this useless assignment to local variable "gb".(Á÷ççüÿÿÿÿ8èÂ™£å,
+vsquid:S3973?"XUse curly braces or indentation to denote the code conditionally executed by this "for".(«Å‘8èÂ™£å,
+Jsquid:S1481D"'Remove this unused "gb" local variable.(Á÷ççüÿÿÿÿ8èÂ™£å,
+Bsquid:S1659"Declare "b" on a separate line.(¹ÿ¾ûşÿÿÿÿ8èÂ™£å,
+ysquid:S00116
+"URename this field "PoleLength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éé²øÿÿÿÿ8èÂ™£å,
+Msquid:EmptyStatementUsageCheckK"Remove this empty statement.(Øªë‡8èÂ™£å,
+Ksquid:S1068	"(Remove this unused "ince" private field.(Ö”¦‹üÿÿÿÿ8èÂ™£å,
+Bsquid:S1659"Declare "e" on a separate line.(¹ÿ¾ûşÿÿÿÿ8èÂ™£å,
+Rsquid:S1068"/Remove this unused "AntPosition" private field.(ÄÀïØüÿÿÿÿ8èÂ™£å,
+Rsquid:EmptyStatementUsageCheckJ"Remove this empty statement.(å¶··ıÿÿÿÿ8èÂ™£å,
+Qsquid:S1068
+".Remove this unused "PoleLength" private field.(éé²øÿÿÿÿ8èÂ™£å,
+Bsquid:S1659"Declare "c" on a separate line.(¹ÿ¾ûşÿÿÿÿ8èÂ™£å,
+{squid:S00116"WRename this field "AntDirection" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¨–«ıÿÿÿÿ8èÂ™£å,
+zsquid:S00116"VRename this field "AntPosition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÀïØüÿÿÿÿ8èÂ™£å,
+Rsquid:S1068"/Remove this unused "AntVelocity" private field.(—¯íüÿÿÿÿ8èÂ™£å,

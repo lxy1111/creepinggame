@@ -1,0 +1,14 @@
+
+msquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ³ŞË8îÆ•Âå,
+vsquid:UselessImportCheck"FRemove this unused import 'org.jboss.shrinkwrap.api.spec.JavaArchive'.(ÿ˜áşÿÿÿÿ8¤³Áå,
+ksquid:UselessImportCheck"@Remove this unused import 'org.jboss.shrinkwrap.api.ShrinkWrap'.(å˜•8¤³Áå,
+msquid:S00100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¹—8›õÂå,
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŠo8Æ«¾Áå,
+psquid:UselessImportCheck"FRemove this unused import 'org.jboss.shrinkwrap.api.asset.EmptyAsset'.(­”øN8¤³Áå,
+zsquid:UselessImportCheck"ORemove this unused import 'org.jboss.arquillian.container.test.api.Deployment'.(Èô„¬8¤³Áå,
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¤¬æ8òĞ­Áå,
+msquid:UselessImportCheck"BRemove this unused import 'org.jboss.arquillian.junit.Arquillian'.(Ö£Õ8•ìÁå,
+`squid:UselessImportCheck"5Remove this unused import 'org.junit.runner.RunWith'.(¸ıºô8•ìÁå,
+msquid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»•›Ñ8œâøÁå,
+rsquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Äîúüÿÿÿÿ8¯¿‰Âå,
+Wsquid:UselessImportCheck	",Remove this unused import 'org.junit.After'.(«ñÖ«8–Û¥Áå,
